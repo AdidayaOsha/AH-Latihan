@@ -1,0 +1,1 @@
+const productCart = ['handphone', 'pc'];
